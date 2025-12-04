@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "이름에게",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-04T13:38:55.221962Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear Name (이름에게)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_Dear_Name_(이름에게)_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "이름에게",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_이름에게_IU.txt"
+    }
+  ]
+}
